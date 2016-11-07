@@ -3,8 +3,8 @@ source 'https://rubygems.org'
 gemspec
 
 group :test do
-  gem "codeclimate-test-reporter", require: nil
+  gem 'simplecov'
+  gem 'codeclimate-test-reporter', '~> 1.0.0'
   gem 'minitest-reporters'
-  gem 'factory_girl', '~> 4.0'
   gem 'faker'
 end
