@@ -1,4 +1,4 @@
-# Shipme
+# ![Logo](https://github.com/tektite-software/shipme/master/shipme-logo.png) Shipme
 
 
 [![Gem Version](https://badge.fury.io/rb/shipme.svg)](https://badge.fury.io/rb/shipme) [![Build Status](https://travis-ci.org/tektite-software/shipme.svg?branch=master)](https://travis-ci.org/tektite-software/shipme) [![Code Climate](https://codeclimate.com/github/tektite-software/shipme/badges/gpa.svg)](https://codeclimate.com/github/tektite-software/shipme) [![Test Coverage](https://codeclimate.com/github/tektite-software/shipme/badges/coverage.svg)](https://codeclimate.com/github/tektite-software/shipme/coverage) [![Inline docs](http://inch-ci.org/github/tektite-software/shipme.svg?branch=master)](http://inch-ci.org/github/tektite-software/shipme)
